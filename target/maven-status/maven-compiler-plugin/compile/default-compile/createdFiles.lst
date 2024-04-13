@@ -1,0 +1,9 @@
+br\com\tdsoft\model\Ator_.class
+br\com\tdsoft\repository\AbstractRepository.class
+br\com\tdsoft\model\Ator.class
+br\com\tdsoft\service\config\ApplicationConfig.class
+br\com\tdsoft\service\resource\RepositorioResource.class
+br\com\tdsoft\repository\RepositorioRepository.class
+br\com\tdsoft\model\RepositorioSimplificado.class
+br\com\tdsoft\model\Repositorio.class
+br\com\tdsoft\model\Repositorio_.class
